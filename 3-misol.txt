@@ -1,0 +1,1 @@
+/usr/local/bin/python3 /Users/macbookpro/Desktop/Result_exam/6.py
